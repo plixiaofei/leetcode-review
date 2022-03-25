@@ -1,2 +1,5 @@
 *.iml
 .idea
+*Test*
+.DS_Store
+out
